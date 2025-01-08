@@ -1,13 +1,3 @@
----
-title: Sustainable Design
-markmap:
-  colorFreezeLevel: 2
----
----
-title: Sustainable Design
-markmap:
-  colorFreezeLevel: 2
----
 
 ## Ecodesign: What and Why
 - Nguồn gốc của Thiết kế Xanh
