@@ -1,3 +1,11 @@
+---
+Create date: 
+source: 
+context: 
+tags:
+---
+---
+**Key takeaway**
 
 ---
 **Sách: A Critical Guide for Architects and Interior, Lighting, and Environmental Designers**
