@@ -8,7 +8,7 @@ tags:
 **Key takeaway**
 
 ---
-**Sách: A Critical Guide for Architects and Interior, Lighting, and Environmental Designers**
+**Sách: "Sustainable Design: A Critical Guide" by David Bergman**
 ## Ecodesign: What and Why
 - Nguồn gốc của Thiết kế Xanh
   - Sự phát triển từ "Reduce, reuse, recycle"
@@ -49,6 +49,8 @@ tags:
 - Xử lý nước thải
   - Eco-Machines: Hệ thống sinh thái
   - Constructed Wetlands: Vùng đất ngập nước nhân tạo
+
+Note: [[Hệ thống thu hồi nước mưa]]
 
 ## Energy Efficiency
 - Passive Techniques: Kỹ thuật thụ động
