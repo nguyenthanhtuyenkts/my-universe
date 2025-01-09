@@ -60,7 +60,7 @@ tags:
   - Windows and Glazing: Cửa sổ và kính
   - Insulation: Cách nhiệt
   - Cool Roofs: Mái nhà mát
-  - Ventilation and Circulation: Thông gió và lưu thông khí
+  - Ventilation and Circulation: [[Thông gió và lưu thông khí]]
 - Active Techniques: Kỹ thuật chủ động
   - Năng lượng Mặt trời
     - Solar Collectors: Bộ thu nhiệt mặt trời
