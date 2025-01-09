@@ -3,6 +3,7 @@ Create date:
 source: 
 context: 
 tags:
+  - architecture
 ---
 ---
 **Key takeaway**

@@ -4,6 +4,7 @@ source: https://www.lunchboxarchitect.com/blog/15-reasons-why-smaller-homes-are-
 context: 
 tags:
   - architecture
+  - blogging
 ---
 ---
 **Key takeaway**
