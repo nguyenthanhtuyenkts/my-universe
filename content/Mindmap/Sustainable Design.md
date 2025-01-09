@@ -27,14 +27,14 @@ tags:
 ## Site Issues
 - Quy hoạch và Phát triển
   - Chống lại sự mở rộng đô thị
-  - New Urbanism: Chủ nghĩa đô thị mới
+  - New Urbanism: [[Chủ nghĩa đô thị mới]]
 - Quản lý Nước
-  - Kiểm soát nước mưa
-  - Sử dụng vật liệu thấm nước
-  - Mái nhà xanh
+  - [[Kiểm soát nước mưa]]
+  - Sử dụng [[Vật liệu thấm nước]]
+  - [[Mái nhà xanh]]
     - Extensive Green Roof: Mái nhà xanh thâm canh
     - Intensive Green Roof: Mái nhà xanh quảng canh
-- Ô nhiễm Ánh sáng
+- [[Ô nhiễm Ánh sáng]]
   - Tác động tiêu cực của ô nhiễm ánh sáng
 - Vị trí và Kết nối
   - Tác động đến lưu vực sông
@@ -42,20 +42,18 @@ tags:
 
 ## Water Efficiency
 - Bảo tồn nước
-  - Giảm lượng nước sử dụng
+  - [[Giảm lượng nước sử dụng]]
   - Xeriscaping: Cảnh quan khô hạn
 - Nước xám (Gray Water)
-  - Sử dụng nước thải từ các thiết bị sinh hoạt
+  - [[Tái sử dụng nước xám]]
 - Xử lý nước thải
   - Eco-Machines: Hệ thống sinh thái
   - Constructed Wetlands: Vùng đất ngập nước nhân tạo
 
-Note: [[Hệ thống thu hồi nước mưa]]
-
 ## Energy Efficiency
-- Passive Techniques: Kỹ thuật thụ động
+- Passive Techniques: [[Kỹ thuật thụ động trong sử dụng năng lượng]]
   - Thermal Mass: Khối nhiệt
-  - Double-Envelope Construction: Cấu trúc hai lớp vỏ
+  - Double-Envelope Construction: [[Cấu trúc hai lớp vỏ]]
   - Earth Berming: Đắp đất
   - Solar Orientation: Hướng mặt trời
   - Surface-to-Volume Ratio: Tỷ lệ diện tích bề mặt trên thể tích
