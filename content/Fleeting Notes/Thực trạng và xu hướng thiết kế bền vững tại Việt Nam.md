@@ -8,3 +8,6 @@ tags:
 ---
 **Key takeaway**
 
+Hiện tại không có bài viết nào trên trang kienviet nói về một số kw sau:
+- nước xám
+- bền vững

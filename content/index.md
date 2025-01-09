@@ -21,6 +21,7 @@ Nguyên tắc thực hành ghi chú theo phương pháp Zettelkasten, [link tham
 
 - **Fleeting notes**
 	- Ghi chú dưới dạng keyword, cực kỳ ngắn gọn cái ý nghĩ, ý tưởng nào đó khởi lên trong đầu.
+	- Ghi chú nhanh từ một nguồn bất kỳ lên giấy Zettel
 	- Bổ sung tag, context, hoặc source (nếu có).
 	- Viết tay vào giấy note > pinned vào bảng > cập nhật lên Cloud
 
@@ -30,8 +31,8 @@ Nguyên tắc thực hành ghi chú theo phương pháp Zettelkasten, [link tham
 	- Viết vào giấy Notes, or any where
 
 - **Literature Notes**
-	- Ghi chú nhanh từ một nguồn bất kỳ lên giấy Zettel
-	- Ghi chú chi tiết từ các Fleeting notes
+	- Ghi chú chi tiết hơn từ các Fleeting notes
+	- Copy những ghi chú đã được tổng hợp lại hoặc tóm tắt từ các nguồn khác (VD: như các AI Tool)
 	- Dẫn nguồn (**Important!**). Hoặc copy trực tiếp nội dung nguồn vào phần Resource (nếu có thể)
 
 - **Evergreen Notes**
