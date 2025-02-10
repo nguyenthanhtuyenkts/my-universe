@@ -1,7 +1,7 @@
 ---
 Source: https://vi.wikipedia.org/wiki/A-di-%C4%91%C3%A0
 tags:
-  - wiki
+  - Wiki
 aliases:
   - A-di-đà Phật
   - A Di Đà Phật

@@ -3,7 +3,7 @@ Create date: 2024-10-26
 source: 
 context: 
 tags:
-  - personal-development
+  - Personal-development
 ---
 ---
 **Key takeaway**

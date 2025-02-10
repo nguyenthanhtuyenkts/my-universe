@@ -1,7 +1,7 @@
 ---
 Source: https://vi.wikipedia.org/wiki/Th%C3%ADch-ca_M%C3%A2u-ni
 tags:
-  - wiki
+  - Wiki
 aliases:
   - Thích-ca
 ---

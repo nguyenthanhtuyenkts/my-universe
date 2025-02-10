@@ -1,7 +1,7 @@
 ---
 Source: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Nh%E1%BA%ADt_Nh%C6%B0_Lai
 tags:
-  - wiki
+  - Wiki
 aliases:
   - Tỳ-lư-xá-na
   - Đại Nhật Như Lai

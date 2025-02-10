@@ -3,8 +3,8 @@ Create date: ""
 source: https://www.lunchboxarchitect.com/blog/15-reasons-why-smaller-homes-are-better/
 context: 
 tags:
-  - architecture
-  - blogging
+  - Architecture
+  - Blogging
 ---
 ---
 **Key takeaway**

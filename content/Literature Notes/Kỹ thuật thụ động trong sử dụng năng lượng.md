@@ -3,7 +3,7 @@ Create date: ""
 source: 
 context: 
 tags:
-  - architecture
+  - Architecture
 ---
 ---
 **Key takeaway**

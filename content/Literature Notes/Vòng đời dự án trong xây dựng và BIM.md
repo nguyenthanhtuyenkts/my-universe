@@ -3,7 +3,7 @@ Create date: ""
 source: 
 context: 
 tags:
-  - architecture
+  - Architecture
 ---
 ---
 Vòng đời của một dự án trong ngành xây dựng và BIM (Building Information Modeling) được chia thành các giai đoạn chính, từ ý tưởng ban đầu đến vận hành và bảo trì công trình. Dưới đây là chi tiết về từng giai đoạn:

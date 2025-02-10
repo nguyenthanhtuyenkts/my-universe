@@ -3,7 +3,7 @@ Create date: 2025-01-09
 source: 
 context: 
 tags:
-  - architecture
+  - Architecture
 ---
 ---
 Việc áp dụng BIM (Building Information Modeling) vào các giai đoạn của vòng đời dự án giúp cải thiện hiệu quả quản lý, tăng cường hợp tác và giảm thiểu rủi ro. Dưới đây là hướng dẫn chi tiết về cách áp dụng BIM vào từng giai đoạn và các công cụ BIM phù hợp:

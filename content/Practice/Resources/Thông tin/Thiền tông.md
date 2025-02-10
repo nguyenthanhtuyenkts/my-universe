@@ -1,7 +1,7 @@
 ---
 Source: https://vi.wikipedia.org/wiki/Thi%E1%BB%81n_t%C3%B4ng
 tags:
-  - wiki
+  - Wiki
 aliases:
 ---
 ---

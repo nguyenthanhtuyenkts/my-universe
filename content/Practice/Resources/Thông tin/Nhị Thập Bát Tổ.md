@@ -1,7 +1,7 @@
 ---
 Source: https://vi.wikipedia.org/wiki/Nh%E1%BB%8B_th%E1%BA%ADp_b%C3%A1t_t%E1%BB%95
 tags:
-  - wiki
+  - Wiki
 aliases:
 ---
 ---
