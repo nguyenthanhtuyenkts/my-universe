@@ -13,10 +13,10 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'google', tagId: '<your-google-tag>',
+      provider: 'plausible', host: 'stats.on.io.vn'
     },
     locale: "en-US",
-    baseUrl: "my.on.io.vn",
+    baseUrl: "on.io.vn",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
