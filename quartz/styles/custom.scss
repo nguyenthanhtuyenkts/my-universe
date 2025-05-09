@@ -29,7 +29,6 @@ article h2 {
 strong,
 footer a,
 .breadcrumb-container a {
-	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	padding: 0;
 	color: #7aa2f7;
@@ -92,7 +91,6 @@ blockquote {
 }
 
 blockquote p {
-	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	color: #7aa2f7;
 	margin: 0;
